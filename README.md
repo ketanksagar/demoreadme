@@ -7,10 +7,10 @@ Hi there, I'm <a href="https://www.linkedin.com/in/ketan-ksagar/" target="_blank
 </h3>
 
 <h2 align="center">
-I'm a Data Analytics Engineering Student  💻, Photographer 📸, and Data Enthusiastic!
+I am Graduate student majoring in Data Analytics Engineering  💻, Photographer 📸, and Data Enthusiastic!
 </h2> 
 
-I love to work on Data. I am looking for opportunities of full time employee as Data Analyst and Data Engineer. I love to spend time to meet new people. Learning how people hide things and where people are likely to look. 
+Welcome to my digital space, where data transforms into insights and ideas come to life. I am Ketan Kshirsagar, a passionate data enthusiast and analytics professional. Through my journey, I've navigated the realms of data analysis, business intelligence, and data engineering, crafting solutions and extracting meaningful narratives from complex datasets. Explore my portfolio to witness the fusion of technical expertise, creative exploration, and a commitment to turning data into a powerful force for informed decision-making. Join me in unraveling the stories hidden within the numbers and the possibilities that data-driven insights bring to the forefront.
 
 ### 🤝 Connect with me:
 
@@ -24,13 +24,13 @@ I love to work on Data. I am looking for opportunities of full time employee as 
 
 ## 💼 Technical Skills
 👉 MS SQL Server<br>
-👉 Amazon Web Services(S3, Redshift, AMS)<br>
-👉 Power BI<br>
+👉 Amazon Web Services(S3, Redshift, AMS, RDS, Glue)<br>
+👉 Microsoft Power BI<br>
 👉 Microsoft Office Suit<br>
 👉 Python <br>
 👉 Snowflake <br>
 👉 Tableau <br>
-👉 R <br>
+👉 R Studio<br>
 👉 Apache Airflow<br>
 👉 PySpark<br>
 👉 Google Cloud Platform<br>
