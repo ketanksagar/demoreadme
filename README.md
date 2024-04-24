@@ -31,6 +31,7 @@ Welcome to my digital space, where data transforms into insights and ideas come 
 👉 Snowflake <br>
 👉 Tableau <br>
 👉 R Studio<br>
+👉 Big Data<br>
 👉 Apache Airflow<br>
 👉 PySpark<br>
 👉 Google Cloud Platform<br>
